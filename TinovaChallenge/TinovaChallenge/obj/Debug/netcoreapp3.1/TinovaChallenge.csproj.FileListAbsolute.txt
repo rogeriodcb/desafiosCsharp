@@ -1,0 +1,15 @@
+C:\Users\Samsung\Documents\Rogerio\TESTES EMPREGO\TINOVA\TinovaChallenge\TinovaChallenge\TinovaChallenge\obj\Debug\netcoreapp3.1\TinovaChallenge.csprojAssemblyReference.cache
+C:\Users\Samsung\Documents\Rogerio\TESTES EMPREGO\TINOVA\TinovaChallenge\TinovaChallenge\TinovaChallenge\obj\Debug\netcoreapp3.1\TinovaChallenge.Form1.resources
+C:\Users\Samsung\Documents\Rogerio\TESTES EMPREGO\TINOVA\TinovaChallenge\TinovaChallenge\TinovaChallenge\obj\Debug\netcoreapp3.1\TinovaChallenge.csproj.GenerateResource.cache
+C:\Users\Samsung\Documents\Rogerio\TESTES EMPREGO\TINOVA\TinovaChallenge\TinovaChallenge\TinovaChallenge\obj\Debug\netcoreapp3.1\TinovaChallenge.AssemblyInfoInputs.cache
+C:\Users\Samsung\Documents\Rogerio\TESTES EMPREGO\TINOVA\TinovaChallenge\TinovaChallenge\TinovaChallenge\obj\Debug\netcoreapp3.1\TinovaChallenge.AssemblyInfo.cs
+C:\Users\Samsung\Documents\Rogerio\TESTES EMPREGO\TINOVA\TinovaChallenge\TinovaChallenge\TinovaChallenge\obj\Debug\netcoreapp3.1\TinovaChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Documents\Rogerio\TESTES EMPREGO\TINOVA\TinovaChallenge\TinovaChallenge\TinovaChallenge\bin\Debug\netcoreapp3.1\TinovaChallenge.exe
+C:\Users\Samsung\Documents\Rogerio\TESTES EMPREGO\TINOVA\TinovaChallenge\TinovaChallenge\TinovaChallenge\bin\Debug\netcoreapp3.1\TinovaChallenge.deps.json
+C:\Users\Samsung\Documents\Rogerio\TESTES EMPREGO\TINOVA\TinovaChallenge\TinovaChallenge\TinovaChallenge\bin\Debug\netcoreapp3.1\TinovaChallenge.runtimeconfig.json
+C:\Users\Samsung\Documents\Rogerio\TESTES EMPREGO\TINOVA\TinovaChallenge\TinovaChallenge\TinovaChallenge\bin\Debug\netcoreapp3.1\TinovaChallenge.runtimeconfig.dev.json
+C:\Users\Samsung\Documents\Rogerio\TESTES EMPREGO\TINOVA\TinovaChallenge\TinovaChallenge\TinovaChallenge\bin\Debug\netcoreapp3.1\TinovaChallenge.dll
+C:\Users\Samsung\Documents\Rogerio\TESTES EMPREGO\TINOVA\TinovaChallenge\TinovaChallenge\TinovaChallenge\bin\Debug\netcoreapp3.1\TinovaChallenge.pdb
+C:\Users\Samsung\Documents\Rogerio\TESTES EMPREGO\TINOVA\TinovaChallenge\TinovaChallenge\TinovaChallenge\obj\Debug\netcoreapp3.1\TinovaChallenge.dll
+C:\Users\Samsung\Documents\Rogerio\TESTES EMPREGO\TINOVA\TinovaChallenge\TinovaChallenge\TinovaChallenge\obj\Debug\netcoreapp3.1\TinovaChallenge.pdb
+C:\Users\Samsung\Documents\Rogerio\TESTES EMPREGO\TINOVA\TinovaChallenge\TinovaChallenge\TinovaChallenge\obj\Debug\netcoreapp3.1\TinovaChallenge.genruntimeconfig.cache
