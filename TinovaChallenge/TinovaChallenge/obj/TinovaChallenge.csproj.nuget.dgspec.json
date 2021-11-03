@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samsung\\Documents\\Rogerio\\TESTES EMPREGO\\TINOVA\\TinovaChallenge\\TinovaChallenge\\TinovaChallenge\\TinovaChallenge.csproj": {}
+    "C:\\Users\\Samsung\\Documents\\Rogerio\\TESTES EMPREGO\\TINOVA\\desafiosCsharp\\TinovaChallenge\\TinovaChallenge\\TinovaChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samsung\\Documents\\Rogerio\\TESTES EMPREGO\\TINOVA\\TinovaChallenge\\TinovaChallenge\\TinovaChallenge\\TinovaChallenge.csproj": {
+    "C:\\Users\\Samsung\\Documents\\Rogerio\\TESTES EMPREGO\\TINOVA\\desafiosCsharp\\TinovaChallenge\\TinovaChallenge\\TinovaChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samsung\\Documents\\Rogerio\\TESTES EMPREGO\\TINOVA\\TinovaChallenge\\TinovaChallenge\\TinovaChallenge\\TinovaChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\Samsung\\Documents\\Rogerio\\TESTES EMPREGO\\TINOVA\\desafiosCsharp\\TinovaChallenge\\TinovaChallenge\\TinovaChallenge.csproj",
         "projectName": "TinovaChallenge",
-        "projectPath": "C:\\Users\\Samsung\\Documents\\Rogerio\\TESTES EMPREGO\\TINOVA\\TinovaChallenge\\TinovaChallenge\\TinovaChallenge\\TinovaChallenge.csproj",
+        "projectPath": "C:\\Users\\Samsung\\Documents\\Rogerio\\TESTES EMPREGO\\TINOVA\\desafiosCsharp\\TinovaChallenge\\TinovaChallenge\\TinovaChallenge.csproj",
         "packagesPath": "C:\\Users\\Samsung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samsung\\Documents\\Rogerio\\TESTES EMPREGO\\TINOVA\\TinovaChallenge\\TinovaChallenge\\TinovaChallenge\\obj\\",
+        "outputPath": "C:\\Users\\Samsung\\Documents\\Rogerio\\TESTES EMPREGO\\TINOVA\\desafiosCsharp\\TinovaChallenge\\TinovaChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
