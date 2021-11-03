@@ -2,7 +2,7 @@
 
 Utilizando o Visual Studio 2019 community edition uma interface simples foi elaborada em C# para demonstrar 5 implementações distintas:
 
-![Main User interface](https://github.com/rogeriodcb/desafioscsharp/blob/main/additional_files/csharphmi.png)
+![Main User interface](https://github.com/rogeriodcb/desafiosCsharp/blob/main/additional_files/CSharpHMI.png)
 
 **1) votos em relação ao total de eleitores**
 
