@@ -24,7 +24,7 @@ Nesta implemntação apresenta-se um acesso a uma API Rest de cadastro de veícu
 (em desenvolvimento)
 
 
-Nota: Os diretórios neste repositório estão separados da seguinte forma:
+**Nota 1:** Os diretórios neste repositório estão separados da seguinte forma:
 - TinovaChallenge: contém todos os códigos em C# incluindo a User Interface principal e as classes para cada desafio. Foi utilizado o Visual Studio 2019 Community edition para desenvolvimento. 
 As seguintes classes são chamadas dentro de Form1.cs. As classes foram criadas para cada uma das implementações.
 
@@ -38,5 +38,12 @@ Multiplos.cs
 
 - cadastroveiculo: contém a API desenvolvida no framework SpringBoot com códigos em Java.
 
+**Nota 2:** a API ainda não está totalmente concluída. Segue as explicações:
+- O método Patch (um update de um determinado campo(s) ao invés de se fazer um update inteiro) não foi implementado.
+- Embora o método GET all foi implementado não houve um entendimento do requisito **GET /veiculos/find** - **retorna os veículos de acrodo com o termo passado parâmetro q**. Portanto, os demais GETs não foram implementados.
+- Testes unitários não foram feitos (com MOCA, JUNIT ou qualquer outro). Ainda em desenvolvimento.
+- Não foi feito a consistÊncia de marcas de carro fornecidas. Pretendia-se acessar uma outra API existente e fazê-la retornar os modelos existentes para comparação na própria User Interface ou até mesmo dentro da API. A API que pretendia-se usar é a https://deividfortuna.github.io/fipe/. Ainda em desenvolvimento.
+- Uma interface online Swagger foi disponibilizada quando a API está no ar (http://localhost:8080/swagger-ui.html) para poder testar o cadastro veiculos API.
+- A chamada pela User Interface principal também não foi concluída (em desenvolvimento).
 
 
